@@ -1,0 +1,15 @@
+{
+    "geode": "3.0.0-beta.1",
+    "id": "derlandix.actual_difficulty_mod",
+    "name": "Actual Difficulty Mod",
+    "version": "1.0.0",
+    "developer": "DerlandiX",
+    "description": "An automated record, analyze, and playback difficulty overlay engine.",
+    "repository": "https://github.com",
+    "dependencies": [],
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    }
+}
